@@ -1,4 +1,4 @@
-# Click on below Projects to view Complete Documentation
+# Click on the below Project names to view the Complete Documentation:
 
 # [Budget Sales Analysis](https://github.com/Pp11112000/Budget-Sales-Analysis)
 
